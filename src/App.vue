@@ -577,7 +577,7 @@ onUnmounted(() => {
                     <span class="text-red-600 font-mono text-sm mb-4 block">04.</span>
                     <h2 class="text-5xl md:text-6xl font-bold text-white mb-8 tracking-tight">About Me</h2>
                     <p class="text-neutral-400 text-lg leading-relaxed max-w-2xl mx-auto">
-                        I am currently looking for internship opportunities in Software Engineering or AI. 
+                        I am currently looking for internship opportunities in Website Development or AI. 
                         Whether you have a question or just want to say hi, my inbox is always open!
                     </p>
                 </div>
